@@ -1,0 +1,21 @@
+@startuml
+	skinparam dpi 300
+
+	:TiddlyWiki
+	----
+	* database and library
+	* plugin arquitecture
+	* rendering tiddlers
+	;
+	
+	:Mardown Exended
+	----
+	* have built in support
+	* plugin arquitecture in parsing process
+	;
+
+	:PlantUML
+	----
+	* support (with plugin) built in to markdown
+	;
+@enduml
