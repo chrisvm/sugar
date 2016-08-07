@@ -1,0 +1,24 @@
+{
+  "name": "sugar",
+  "version": "0.0.1",
+  "description": "Documentation, sprinkled",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "sugar",
+    "tiddlywiki",
+    "markdown",
+    "plantuml"
+  ],
+  "author": "Christian Velez <christian.velez55@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "origin": "git@github.com:chrisvm/sugar.git"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
